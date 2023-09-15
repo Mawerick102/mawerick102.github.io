@@ -5,6 +5,6 @@
     </head>
     <body>
         <!-- <?php echo '<p>Привет, мир!</p>'; ?> -->
-        <h1>Hello Hello on HTML</h1>
+        <h1>Hello Hello on PHP</h1>
     </body>
 </html>
